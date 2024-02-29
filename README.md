@@ -1,2 +1,2 @@
-# brian_portfolio
- bmac_portfolio
+# bmac_designs
+ bmac_designs
